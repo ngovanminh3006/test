@@ -1,0 +1,37 @@
+h1:hover{
+    
+    color: rgb(10, 194, 250);
+}
+#heading1{
+    color: rgb(11, 252, 31);
+}
+textarea{
+    display: block;
+}
+h2{
+
+    font-family: 'Lato', sans-serif; <!-- phong chu-->
+    font-weight: 900px;
+
+}
+h3:active{
+    color: rgb(33, 19, 224);
+}
+#test-thoi{
+        background-color: rgb(230, 23, 23);
+} 
+.binz{
+
+    font-size: 20px;
+    color: pink;
+:root{
+    --test-color: black
+
+}
+.Big-boy::after{
+    content: attr(Big city boy);
+
+}
+.Big-boy{
+    background: rgb(rgb(226, 28, 177);
+}
